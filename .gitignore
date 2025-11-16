@@ -39,6 +39,12 @@ desktop.ini
 .env.local
 .env.*.local
 
+# Build artifacts
+build/
+dist/
+*.spec
+*.exe
+
 # Ignore all files in input and output folders (but preserve the folders)
 inputs/*
 outputs/*
