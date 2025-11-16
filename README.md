@@ -105,9 +105,6 @@ pyinstaller --onefile --windowed --name "QualityCheckGUI" quality_check_gui.py
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is available under [specify license if applicable].
 
 ## Support
 
